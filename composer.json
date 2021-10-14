@@ -1,0 +1,17 @@
+{
+    "name": "damilare/no-framework",
+    "description": "Base composer setup with no framwork",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "damilare",
+            "email": "damilare.durojaye@gmail.com"
+        }
+    ],
+    "require": {}
+}
